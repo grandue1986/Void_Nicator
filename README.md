@@ -27,7 +27,7 @@ To add a performance, open the **Nicator's Bones** script. In the *void.nicator.
 To begin one of your performances, enter ***nicator perform \<performance name\>***
 Be sure to not add any capitalization or punctuation to the command.
 
-As your performance continues, it will automatically fill your command line with the next movement. It will be start with ***NICATOR PERFORM \<performance name\>***. Do not change these first three words, they are necessary for the script to function properly. "NICATOR PERFORM" is intentionally capitalized.
+As your performance continues, it will automatically fill your command line with the next movement. It will start with ***NICATOR PERFORM \<performance name\>***. Do not change these first three words, they are necessary for the script to function properly. "NICATOR PERFORM" is intentionally capitalized.
 
 You may edit the performance on-the-fly by clicking into the command line and changing what will be sent.
 
